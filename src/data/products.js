@@ -1,15 +1,17 @@
+import kerupukIkan from '../assets/products/kerupuk-ikan-laut-srowo.jpeg'
+
 export const products = [
   {
     id: 1,
     name: 'Kerupuk Ikan',
     category: 'Makanan',
-    image: '/src/assets/products/kerupuk-ikan-laut-srowo.jpeg',
+    image: kerupukIkan,
 
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut soluta pariatur, perspiciatis ex eos modi id qui eius quia voluptates.',
+      'kerupuk ikan laut khas sidayu terbuat dari ikan laut segar pilihan kaya protein. rasa yang gurih dan renyah cocok sebagai cemilan maupun teman saat makan',
 
     detailDescription:
-      'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id, quidem. Nostrum sequi culpa molestias voluptatum placeat nam ipsa ducimus laboriosam autem consequatur voluptatem quidem iusto doloremque, eveniet explicabo neque natus.',
+      'kerupuk ikan laut khas sidayu terbuat dari ikan laut segar pilihan kaya protein. rasa yang gurih dan renyah cocok sebagai cemilan maupun teman saat makan',
 
     umkm: [
       {
