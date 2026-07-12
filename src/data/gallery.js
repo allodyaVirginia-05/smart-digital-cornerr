@@ -5,36 +5,36 @@ export const gallery = [
     id: 1,
     title: "Produksi Kerupuk Ikan",
     category: "Produksi",
-    image: kerupuk
+    image: kerupuk,
   },
   {
     id: 2,
     title: "Pembuatan Petis",
     category: "Produksi",
-    image: kerupuk
+    image: kerupuk,
   },
   {
     id: 3,
     title: "Pameran UMKM",
     category: "Kegiatan",
-    image: kerupuk
+    image: kerupuk,
   },
   {
     id: 4,
     title: "Pelatihan UMKM",
     category: "Kegiatan",
-    image: kerupuk
+    image: kerupuk,
   },
   {
     id: 5,
     title: "Produk Songkok",
     category: "Produk",
-    image: kerupuk
+    image: kerupuk,
   },
   {
     id: 6,
     title: "Produk Kerupuk",
     category: "Produk",
-    image: kerupuk
+    image: kerupuk,
   }
 ]
